@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="La PACE per Tutti... Sì, TUTTI.">
+        <meta name="keywords" content="pace, vegano, etica, ambiente, salute, vitamina, B12,
+        vegetariano, ecologia, proteine, vegetali, animali, formaggi, latte, fegato grasso,
+        uova, carne, vivisezione, calcio, cuoio, lana, miele, ferro, hemic, zoo, circo">
+        <meta name="robots" content="all">
+        <meta name="Content-language" content="italiano">
+        <meta name="Rating" content="General">
+        <meta name="revisit-after" content="1 month">
+        <meta name="author" content="Sébastien RONDEAU-CAMEIRA">
+        <title>PACE per TUTTI</title>
+        <link rel="stylesheet" href="https://paixpourtous.com/css/style.css">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+        <link rel="icon" type="image/png" href="favicon.png">
+        <link rel="alternate" hreflang="en" href="https://peace4everyone.info/">
+        <link rel="alternate" hreflang="fr" href="https://paixpourtous.com/">
+        <link rel="alternate" hreflang="pt" href="https://pazparatodos.com/">
+        <link rel="alternate" hreflang="x-default" href="https://paixpourtous.com/">
+        <meta property="og:title" content="PACE per TUTTI">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://pacepertutti.com/">
+        <meta property="og:image" content="images/aum.png">
+        <meta property="og:description" content="La PACE per Tutti... Sì, TUTTI.">
+        <meta property="og:locale" content="it_IT">
+        <meta property="og:site_name" content="PACE per TUTTI">
+    </head>
+    <body>
+        <main id="text">
+            <h1>La PACE nel MONDO inizia nel <u>TUO</u> piatto.</h1>
+            <form action="https://www.ecosia.org/search" method="GET">
+                <input type="hidden" value="vegan" name="q">
+                <p>GO
+                    <input type="submit" value="VEGAN !" class="btn1">
+                </p>
+            </form>
+            <br>
+            <h2>Fai la tua ricerca da solo...</h2>
+            <h3>Il tuo voto è la tua carta di credito.</h3>
+            <form action="https://www.google.it/search" method="GET">
+                <input type="hidden" value="vegan" name="q">
+                <p>GO
+                    <input type="submit" value="VEGAN !" class="btn2">
+                </p>
+            </form>
+        </main>
+        <footer id="barre_langues">
+            <nav>
+                <a href="https://peace4everyone.info/"><img src="images/drap_en.gif" width="35" height="25" alt="English"></a>
+                <a href="https://paixpourtous.com/"><img src="images/drap_fr.gif" width="35" height="25" alt="Français"></a>
+                <a href="https://pazparatodos.com/"><img src="images/drap_pt.gif" width="35" height="25" alt="Portugês"></a>
+            </nav>
+        </footer>
+    </body>
+</html>
